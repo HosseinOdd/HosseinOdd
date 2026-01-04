@@ -22,4 +22,4 @@ Backend-focused developer with experience in building and automating systems.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinOdd&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HosseinOdd&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=HosseinOdd&hide_border=true&theme=dark)
